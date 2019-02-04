@@ -1,6 +1,6 @@
 {
   "main": "app/index.js",
-  "name": "Abricotine",
+  "name": "abricotine",
   "description": "A markdown editor for desktop",
   "homepage": "http://abricotine.brrd.fr",
   "repository": {
